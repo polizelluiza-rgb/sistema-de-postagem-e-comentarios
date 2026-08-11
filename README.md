@@ -34,3 +34,7 @@ O sistema de **Rede Social** tem como objetivo permitir que os usuários realize
 **RF03:** O sistema deve permitir que o usuário visualize as postagens.
 **RF04:** O sistema deve permitir que o usuário faça comentários nas postagens.
 **RF05:** O sistema deve permitir que o usuário visualize os comentários.
+
+
+## Modelagem Conceitual
+![](image.png)
