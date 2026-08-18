@@ -38,3 +38,6 @@ O sistema de **Rede Social** tem como objetivo permitir que os usuários realize
 
 ## Modelagem Conceitual
 ![](image.png)
+
+## Modelo Logico
+![](ModeloLogico.png) 
